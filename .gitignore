@@ -1,0 +1,16 @@
+Screen?.java
+
+data2/*
+!/data2/data01.csv
+
+/*.tmp
+
+/config/
+
+*.dat
+!/*.dat
+
+/*.class
+
+passwords.*
+
